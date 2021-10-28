@@ -1,0 +1,13 @@
+	CURRENT PRICES ARE
+Samosa
+11.0
+Kachori
+10.0
+Mirchivada
+20.0
+Breadpakoda
+25.0
+Jalebi
+180.0
+	Prices last updated on
+    Date=28-10-21	Time=22:11:05
