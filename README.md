@@ -1,2 +1,21 @@
 # RESTAURANT-BILL-GENERATOR
 PYTHON BASED PROJECT ON RESTAURANT BILL GENERATOR
+
+			#RESTAURANT BILL GENRATOR AND ANALYZER
+			***********************************************************
+YOUTUBE VIDEO  https://youtu.be/aCBwuAjCS0c
+-------------------------------------------------------------------------------------------------------------------------------------------------
+DEVELOPER: #SAMYAK JAIN
+COLLEGE: M.B.M ENGINEERING COLLEGE(JODHPUR)
+CONTACT NUMBER: 9782874***
+********************************************************************************************************************************************
+OPEN THE Loginpage.py FIRST AND BY THAT FILE YOU CAN MOVE TO ALL FILES BUT YOU HAVE TO OPEN 
+Analysis.py EXPLICITLY FOR DOING ANALYSIS.
+
+*******************************************************************************************************************************************
+FOR LOGGING INTO THE MENU WINDOW USE BELOW GIVEN USERNAME AND PASSWORD
+USERNAME:- Samyak
+PASSWORD:- 1234
+
+******************************************************************************************************************************************
+FOR RUNNING Analysis.py USE THE DATE 22-07-2021 AS ITS DATABASE IS FULLY FURNISHED WITH THE DATA.
